@@ -1,1 +1,3 @@
-# amazon-web-scraping-python-project
+# Amazon Product Web Scraping with Python
+
+Developed a robust web-scraping pipeline to extract real-time product information from Amazon using Python. Implemented automated scripts to collect key attributes such as product title, pricing, ratings, reviews, and availability data. Performed HTML parsing, data cleaning, and transformation using BeautifulSoup, requests, and pandas, producing structured datasets ready for analytics. Designed a scalable approach capable of tracking price fluctuations, comparing product listings, and monitoring marketplace trends over time. This project demonstrates practical experience in web scraping, data extraction, automation, and building analytics-ready datasets from live e-commerce platforms.
